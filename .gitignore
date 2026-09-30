@@ -1,0 +1,4 @@
+*.o
+*.so
+smoke_test/
+lib64/
